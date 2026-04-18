@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Tejaswini-1802
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning Bsc cs
-- 💞️ I’m looking to collaborate on IT industry
-- 📫 How to reach me tejaswiniadasule07@gmail.com
+I am a passionate and self-driven learner focused on building a strong career in Data Science and Machine Learning. I enjoy working with real-world data, uncovering insights, and solving meaningful problems.
 
-<!---
-Tejaswini-1802/Tejaswini-1802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Skilled in data analysis and visualization
+🤖 Exploring Machine Learning models and real-world applications
+💡 Strong interest in business insights and decision-making
+🌱 Currently improving my technical + communication skills
+🎯 Goal: To become a professional Data Scientist
